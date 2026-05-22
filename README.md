@@ -7,12 +7,12 @@
 对于路由表,可选dht存储规则与节点质量考察,不强制.
 可以仅参加联络协议.通过联络协议,可以找到你与你朋友的ip地址.可以不使用其余协议,而自由地使用ip与朋友联系,比如自行配置通信规则.(若有隐私需求,建议搭配使用非对称加密)
 
-bt种子
-925232364a8fb75a640749123b18c3b4ddfd1490 202605221119
+bt种子 925232364a8fb75a640749123b18c3b4ddfd1490 202605221119
 
-通过网盘分享的文件：decentralized_communication_protocol_202605221119_win11.7z
-链接: https://pan.baidu.com/s/1vRoCa1b7m7bJzNtbnCYZwg?pwd=7777 提取码: 7777 复制这段内容后打开百度网盘手机App，操作更方便哦
+https://pan.baidu.com/s/1vRoCa1b7m7bJzNtbnCYZwg?pwd=7777
 
 https://github.com/acldhf/decentralized_communication_protocol
+
 acldhf@protonmail.com
+
 13:48 18/05/2026
