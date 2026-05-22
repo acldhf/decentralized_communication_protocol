@@ -11,6 +11,9 @@ bt种子
 925232364a8fb75a640749123b18c3b4ddfd1490 202605221119 
 3b149b6cfc4ce2f8a0c98720991cb0fa4a922677 20260522 
 
+通过网盘分享的文件：decentralized_communication_protocol_202605221119_win11.7z
+链接: https://pan.baidu.com/s/1vRoCa1b7m7bJzNtbnCYZwg?pwd=7777 提取码: 7777 复制这段内容后打开百度网盘手机App，操作更方便哦
+
 https://github.com/acldhf/decentralized_communication_protocol
 acldhf@protonmail.com
 13:48 18/05/2026
